@@ -1,0 +1,184 @@
+/* * {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif
+} */
+
+.header {
+
+    position: absolute;
+    width: 100%;
+    height: 298px;
+    left: 0px;
+    top: 0px;
+
+    background: #FBF7FF;
+}
+
+.logo {
+    position: absolute;
+    width: 134px;
+    height: 34px;
+    left: 165px;
+    text-align: justify;
+    top: 32px;
+    background: url(image\ 1.png);
+
+}
+
+.sign {
+    position: absolute;
+    width: 0px;
+    height: 34px;
+    left: 319px;
+    top: 32px;
+    border: 1px solid #3D1665;
+}
+
+.vector {
+    position: absolute;
+    width: 100px;
+    height: 17px;
+    left: 339px;
+    top: 41px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #16002C;
+}
+
+.heading1 {
+    position: absolute;
+    width: 510px;
+    height: 72px;
+    left: 165px;
+    top: 146px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 72px;
+    /* identical to box height, or 150% */
+
+    text-align: center;
+
+    color: #16002C;
+}
+
+.docs {
+
+    position: absolute;
+    width: 50rem;
+    height: 28px;
+    left: 350px;
+    top: 322px;
+    padding: 0px;
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    color: #7F27D5;
+}
+
+a {
+    text-decoration: none;
+    color: #7F27D5;
+}
+
+.heading2 {
+    position: absolute;
+    width: 50rem;
+    height: 28px;
+    left: 354px;
+    top: 422px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    /* identical to box height, or 117% */
+
+
+    color: #16002C;
+}
+
+.line1,
+.line2,
+.line3,
+.line4,
+.line5 {
+
+    position: absolute;
+    width: 542px;
+    height: 28px;
+    left: 356px;
+
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    /* identical to box height, or 175% */
+    color: #7F27D5;
+}
+
+.line1 {
+    top: 490px
+}
+
+.line2 {
+    top: 534px;
+}
+
+.line3 {
+    top: 578px;
+}
+
+.line4 {
+    top: 622px;
+}
+
+.line5 {
+    top: 666px;
+}
+
+.dotted1,
+.dotted2,
+.dotted3,
+.dotted4,
+.dotted5 {
+    position: absolute;
+    width: 730px;
+    height: 0px;
+    left: 356px;
+
+    border: 1px dashed #EFDFFF;
+}
+
+.dotted1 {
+    top: 526px;
+}
+
+.dotted2 {
+    top: 570px;
+}
+
+.dotted3 {
+    top: 614px;
+}
+
+.dotted4 {
+    top: 658px;
+}
+
+.dotted5 {
+    top: 702px;
+}
